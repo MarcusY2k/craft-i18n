@@ -306,3 +306,14 @@ in the source PR. PhotoCraft #12851 (@rmsff) rekeys the fill-rasterization promp
 in 22 catalogs, preserving the existing translations and their credits above.
 Synced from `photocraft@7c64653` to `photocraft@2772ac1` with
 `tools/sync_app.py`; no translations were newly authored in this top-up.
+
+## PhotoCraft: TIFF Options labels from photocraft#11094
+
+Photocraft #11094 added translations of "Image Compression", "Save Image Pyramid",
+"Save Transparency", "LZW" and "ZIP" to 26 in-repo catalogs before those files
+moved here. The same rows are now in `locales/<code>/photocraft.tsv` for ar, cs,
+da, de, el, es, fi, fr, hi, hu, id, it, ja, ko, nb, nl, pl, pt-br, ru, sr-latn,
+sv, tr, uk, vi, zh-hans and zh-hant (sr.tsv became sr-latn). The source PR said
+the translations were machine-drafted and invited native-speaker review. LZW and
+ZIP stay identity rows, as in the PSD catalogs. Locales that already had these
+keys (including he, ro and ur) were left unchanged.
