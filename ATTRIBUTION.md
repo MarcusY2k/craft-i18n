@@ -313,7 +313,7 @@ The `texturecraft.tsv` catalogs for ar, de, es, fr, it, ja, ko, pt-br and zh-han
 
 ## PhotoCraft: TIFF Options labels from photocraft#11094
 
-Photocraft #11094 added translations of "Image Compression", "Save Image Pyramid",
+Photocraft #11094, submitted by @FredApps, added translations of "Image Compression", "Save Image Pyramid",
 "Save Transparency", "LZW" and "ZIP" to 26 in-repo catalogs before those files
 moved here. The same rows are now in `locales/<code>/photocraft.tsv` for ar, cs,
 da, de, el, es, fi, fr, hi, hu, id, it, ja, ko, nb, nl, pl, pt-br, ru, sr-latn,
